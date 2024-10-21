@@ -1,7 +1,8 @@
 {
      "name": "diaslasd/markdown-to-bash",
      "description": "Converte Markdown para texto formatado para o terminal.",
-     "type": "library",
+     "version": "0.0.1"
+     "type": "package",
      "license": "MIT",
      "authors": [
        {
@@ -23,5 +24,4 @@
      "scripts": {
        "test": "phpunit"
      },
-     "minimum-stability": "stable"
    }
