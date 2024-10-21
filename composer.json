@@ -23,6 +23,5 @@
      "scripts": {
        "test": "phpunit"
      },
-     "minimum-stability": "stable",
-     "version": "0.0.1" // Versão atualizada
+     "minimum-stability": "stable"
    }
