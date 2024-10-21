@@ -1,2 +1,4 @@
 contents*
 *.bak
+composer.lock
+vendor/
